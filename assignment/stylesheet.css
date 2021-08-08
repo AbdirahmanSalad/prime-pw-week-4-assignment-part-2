@@ -1,0 +1,20 @@
+.header {
+  background-color: Red;
+  color: yellow;
+  text-align: left;
+}
+h2 {
+  background-color: purple;
+  color: black;
+  text-align: center;
+}
+
+h3 {
+  background-color: purple;
+  color: black;
+  text-align: center;
+}
+img {
+  width: 50%;
+  height: 50%;
+}
